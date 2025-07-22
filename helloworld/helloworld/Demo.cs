@@ -6,11 +6,14 @@ using System.Threading.Tasks;
 
 namespace Helloworld
 {
-    internal class Program
+    internal class Demo
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Console.WriteLine("Helloworld");
+            Data data = new Data();
+            data.Greeting();
+            data.Company();
+
         }
     }
 }

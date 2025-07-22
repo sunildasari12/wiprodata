@@ -6,11 +6,13 @@ using System.Threading.Tasks;
 
 namespace Helloworld
 {
-    internal class Program
+    internal class Quiz3
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Console.WriteLine("Helloworld");
+            char ch = 'A';
+            ch++;
+            Console.WriteLine(ch);
         }
     }
 }

@@ -6,11 +6,15 @@ using System.Threading.Tasks;
 
 namespace Helloworld
 {
-    internal class Program
+    internal class Bitwise4
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Console.WriteLine("Helloworld");
+            int a = 7;
+            Console.WriteLine(~a);
+
+            int b = -3;
+            Console.WriteLine(~b);
         }
     }
 }

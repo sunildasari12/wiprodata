@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{64961F77-668D-4542-A874-2C2CDA81EF50}</ProjectGuid>
+    <ProjectGuid>{B887C81D-B4C8-4B01-AB18-548A16189388}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>helloworld</RootNamespace>
-    <AssemblyName>helloworld</AssemblyName>
+    <RootNamespace>Helloworld</RootNamespace>
+    <AssemblyName>Helloworld</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Helloworld.Quiz8</StartupObject>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -43,8 +46,30 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Bitwise1.cs" />
+    <Compile Include="Bitwise3.cs" />
+    <Compile Include="Bitwise4.cs" />
+    <Compile Include="Calculation.cs" />
+    <Compile Include="ConstExample.cs" />
+    <Compile Include="Custom.cs" />
+    <Compile Include="Data.cs" />
+    <Compile Include="Demo.cs" />
+    <Compile Include="Employ.cs" />
+    <Compile Include="EmployCustom.cs" />
+    <Compile Include="EmployData.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Quiz1.cs" />
+    <Compile Include="Quiz2.cs" />
+    <Compile Include="Quiz3.cs" />
+    <Compile Include="Quiz4.cs" />
+    <Compile Include="Quiz5.cs" />
+    <Compile Include="Quiz6.cs" />
+    <Compile Include="Quiz8.cs" />
+    <Compile Include="StrEx.cs" />
+    <Compile Include="StrMethods.cs" />
+    <Compile Include="Unary.cs" />
+    <Compile Include="VariableExample.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

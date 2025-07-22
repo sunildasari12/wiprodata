@@ -6,11 +6,13 @@ using System.Threading.Tasks;
 
 namespace Helloworld
 {
-    internal class Program
+    internal class StrEx
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Console.WriteLine("Helloworld");
+            string str = "Hello";
+            str.Concat("world");
+            Console.WriteLine(str);
         }
     }
 }
