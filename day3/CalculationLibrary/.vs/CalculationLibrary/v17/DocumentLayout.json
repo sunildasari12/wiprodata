@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\wipro\\day3\\CalculationLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0A3A84-9CE7-43D5-A3A0-28F407C5E0AE}|CalculationLibrary\\CalculationLibrary.csproj|d:\\wipro\\day3\\calculationlibrary\\calculationlibrary\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0A3A84-9CE7-43D5-A3A0-28F407C5E0AE}|CalculationLibrary\\CalculationLibrary.csproj|solutionrelative:calculationlibrary\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95084976-4C04-45C0-AA9E-285A9496FE8C}|CalculationCleint\\CalculationCleint.csproj|d:\\wipro\\day3\\calculationlibrary\\calculationcleint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95084976-4C04-45C0-AA9E-285A9496FE8C}|CalculationCleint\\CalculationCleint.csproj|solutionrelative:calculationcleint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\wipro\\day3\\CalculationLibrary\\CalculationCleint\\Program.cs",
+              "RelativeDocumentMoniker": "CalculationCleint\\Program.cs",
+              "ToolTip": "D:\\wipro\\day3\\CalculationLibrary\\CalculationCleint\\Program.cs",
+              "RelativeToolTip": "CalculationCleint\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:00:13.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculation.cs",
+              "DocumentMoniker": "D:\\wipro\\day3\\CalculationLibrary\\CalculationLibrary\\Calculation.cs",
+              "RelativeDocumentMoniker": "CalculationLibrary\\Calculation.cs",
+              "ToolTip": "D:\\wipro\\day3\\CalculationLibrary\\CalculationLibrary\\Calculation.cs",
+              "RelativeToolTip": "CalculationLibrary\\Calculation.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:52:54.514Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

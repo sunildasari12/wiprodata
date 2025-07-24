@@ -1,0 +1,11 @@
+D:\wipro\day3\CalculationLibrary\CalculationCleint\bin\Debug\CalculationCleint.exe.config
+D:\wipro\day3\CalculationLibrary\CalculationCleint\bin\Debug\CalculationCleint.exe
+D:\wipro\day3\CalculationLibrary\CalculationCleint\bin\Debug\CalculationCleint.pdb
+D:\wipro\day3\CalculationLibrary\CalculationCleint\bin\Debug\CalculationLibrary.dll
+D:\wipro\day3\CalculationLibrary\CalculationCleint\bin\Debug\CalculationLibrary.pdb
+D:\wipro\day3\CalculationLibrary\CalculationCleint\obj\Debug\CalculationCleint.csproj.AssemblyReference.cache
+D:\wipro\day3\CalculationLibrary\CalculationCleint\obj\Debug\CalculationCleint.csproj.CoreCompileInputs.cache
+D:\wipro\day3\CalculationLibrary\CalculationCleint\obj\Debug\Calculat.2049728B.Up2Date
+D:\wipro\day3\CalculationLibrary\CalculationCleint\obj\Debug\CalculationCleint.exe
+D:\wipro\day3\CalculationLibrary\CalculationCleint\obj\Debug\CalculationCleint.pdb
+D:\wipro\day3\CalculationLibrary\CalculationCleint\obj\Debug\CalculationCleint.exe.config
