@@ -1,0 +1,7 @@
+D:\wipro\day4\InterFaceEx1\InterFaceEx1\bin\Debug\InterFaceEx1.exe.config
+D:\wipro\day4\InterFaceEx1\InterFaceEx1\bin\Debug\InterFaceEx1.exe
+D:\wipro\day4\InterFaceEx1\InterFaceEx1\bin\Debug\InterFaceEx1.pdb
+D:\wipro\day4\InterFaceEx1\InterFaceEx1\obj\Debug\InterFaceEx1.csproj.AssemblyReference.cache
+D:\wipro\day4\InterFaceEx1\InterFaceEx1\obj\Debug\InterFaceEx1.csproj.CoreCompileInputs.cache
+D:\wipro\day4\InterFaceEx1\InterFaceEx1\obj\Debug\InterFaceEx1.exe
+D:\wipro\day4\InterFaceEx1\InterFaceEx1\obj\Debug\InterFaceEx1.pdb

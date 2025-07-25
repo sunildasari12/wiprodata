@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\wipro\\day4\\AbsConEx\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1014F8FC-5300-4583-80B4-531A88CAC9E1}|AbsConEx\\AbsConEx.csproj|d:\\wipro\\day4\\absconex\\absconex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1014F8FC-5300-4583-80B4-531A88CAC9E1}|AbsConEx\\AbsConEx.csproj|solutionrelative:absconex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1014F8FC-5300-4583-80B4-531A88CAC9E1}|AbsConEx\\AbsConEx.csproj|d:\\wipro\\day4\\absconex\\absconex\\madhu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1014F8FC-5300-4583-80B4-531A88CAC9E1}|AbsConEx\\AbsConEx.csproj|solutionrelative:absconex\\madhu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1014F8FC-5300-4583-80B4-531A88CAC9E1}|AbsConEx\\AbsConEx.csproj|d:\\wipro\\day4\\absconex\\absconex\\anusha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1014F8FC-5300-4583-80B4-531A88CAC9E1}|AbsConEx\\AbsConEx.csproj|solutionrelative:absconex\\anusha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1014F8FC-5300-4583-80B4-531A88CAC9E1}|AbsConEx\\AbsConEx.csproj|d:\\wipro\\day4\\absconex\\absconex\\uday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1014F8FC-5300-4583-80B4-531A88CAC9E1}|AbsConEx\\AbsConEx.csproj|solutionrelative:absconex\\uday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1014F8FC-5300-4583-80B4-531A88CAC9E1}|AbsConEx\\AbsConEx.csproj|d:\\wipro\\day4\\absconex\\absconex\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1014F8FC-5300-4583-80B4-531A88CAC9E1}|AbsConEx\\AbsConEx.csproj|solutionrelative:absconex\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Madhu.cs",
+              "DocumentMoniker": "D:\\wipro\\day4\\AbsConEx\\AbsConEx\\Madhu.cs",
+              "RelativeDocumentMoniker": "AbsConEx\\Madhu.cs",
+              "ToolTip": "D:\\wipro\\day4\\AbsConEx\\AbsConEx\\Madhu.cs",
+              "RelativeToolTip": "AbsConEx\\Madhu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T18:05:21.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Anusha.cs",
+              "DocumentMoniker": "D:\\wipro\\day4\\AbsConEx\\AbsConEx\\Anusha.cs",
+              "RelativeDocumentMoniker": "AbsConEx\\Anusha.cs",
+              "ToolTip": "D:\\wipro\\day4\\AbsConEx\\AbsConEx\\Anusha.cs",
+              "RelativeToolTip": "AbsConEx\\Anusha.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T18:03:57.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Uday.cs",
+              "DocumentMoniker": "D:\\wipro\\day4\\AbsConEx\\AbsConEx\\Uday.cs",
+              "RelativeDocumentMoniker": "AbsConEx\\Uday.cs",
+              "ToolTip": "D:\\wipro\\day4\\AbsConEx\\AbsConEx\\Uday.cs",
+              "RelativeToolTip": "AbsConEx\\Uday.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T18:02:35.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employ.cs",
+              "DocumentMoniker": "D:\\wipro\\day4\\AbsConEx\\AbsConEx\\Employ.cs",
+              "RelativeDocumentMoniker": "AbsConEx\\Employ.cs",
+              "ToolTip": "D:\\wipro\\day4\\AbsConEx\\AbsConEx\\Employ.cs",
+              "RelativeToolTip": "AbsConEx\\Employ.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T18:01:23.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\wipro\\day4\\AbsConEx\\AbsConEx\\Program.cs",
+              "RelativeDocumentMoniker": "AbsConEx\\Program.cs",
+              "ToolTip": "D:\\wipro\\day4\\AbsConEx\\AbsConEx\\Program.cs",
+              "RelativeToolTip": "AbsConEx\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T17:59:19.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

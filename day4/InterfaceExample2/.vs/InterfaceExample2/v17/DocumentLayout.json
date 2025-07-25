@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\wipro\\day4\\IntfTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A859A22D-8F17-4BB7-A009-646C96A3F995}|IntfTest\\InterfaceExample2.csproj|d:\\wipro\\day4\\intftest\\intftest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A859A22D-8F17-4BB7-A009-646C96A3F995}|IntfTest\\InterfaceExample2.csproj|solutionrelative:intftest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A859A22D-8F17-4BB7-A009-646C96A3F995}|IntfTest\\InterfaceExample2.csproj|D:\\wipro\\day4\\IntfTest\\intftest\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A859A22D-8F17-4BB7-A009-646C96A3F995}|IntfTest\\InterfaceExample2.csproj|solutionrelative:intftest\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A859A22D-8F17-4BB7-A009-646C96A3F995}|IntfTest\\InterfaceExample2.csproj|D:\\wipro\\day4\\IntfTest\\intftest\\itow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A859A22D-8F17-4BB7-A009-646C96A3F995}|IntfTest\\InterfaceExample2.csproj|solutionrelative:intftest\\itow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A859A22D-8F17-4BB7-A009-646C96A3F995}|IntfTest\\InterfaceExample2.csproj|D:\\wipro\\day4\\IntfTest\\intftest\\ione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A859A22D-8F17-4BB7-A009-646C96A3F995}|IntfTest\\InterfaceExample2.csproj|solutionrelative:intftest\\ione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Demo.cs",
+              "DocumentMoniker": "D:\\wipro\\day4\\IntfTest\\IntfTest\\Demo.cs",
+              "RelativeDocumentMoniker": "IntfTest\\Demo.cs",
+              "ToolTip": "D:\\wipro\\day4\\IntfTest\\IntfTest\\Demo.cs",
+              "RelativeToolTip": "IntfTest\\Demo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T18:36:30.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITow.cs",
+              "DocumentMoniker": "D:\\wipro\\day4\\IntfTest\\IntfTest\\ITow.cs",
+              "RelativeDocumentMoniker": "IntfTest\\ITow.cs",
+              "ToolTip": "D:\\wipro\\day4\\IntfTest\\IntfTest\\ITow.cs",
+              "RelativeToolTip": "IntfTest\\ITow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T18:33:14.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IOne.cs",
+              "DocumentMoniker": "D:\\wipro\\day4\\IntfTest\\IntfTest\\IOne.cs",
+              "RelativeDocumentMoniker": "IntfTest\\IOne.cs",
+              "ToolTip": "D:\\wipro\\day4\\IntfTest\\IntfTest\\IOne.cs",
+              "RelativeToolTip": "IntfTest\\IOne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T18:31:06.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\wipro\\day4\\IntfTest\\IntfTest\\Program.cs",
+              "RelativeDocumentMoniker": "IntfTest\\Program.cs",
+              "ToolTip": "D:\\wipro\\day4\\IntfTest\\IntfTest\\Program.cs",
+              "RelativeToolTip": "IntfTest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T18:25:30.045Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

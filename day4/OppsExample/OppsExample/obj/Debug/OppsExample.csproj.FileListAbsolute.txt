@@ -1,0 +1,8 @@
+D:\wipro\day4\OppsExample\OppsExample\bin\Debug\OppsExample.exe.config
+D:\wipro\day4\OppsExample\OppsExample\bin\Debug\OppsExample.exe
+D:\wipro\day4\OppsExample\OppsExample\bin\Debug\OppsExample.pdb
+D:\wipro\day4\OppsExample\OppsExample\obj\Debug\OppsExample.csproj.AssemblyReference.cache
+D:\wipro\day4\OppsExample\OppsExample\obj\Debug\OppsExample.csproj.CoreCompileInputs.cache
+D:\wipro\day4\OppsExample\OppsExample\obj\Debug\OppsExample.exe
+D:\wipro\day4\OppsExample\OppsExample\obj\Debug\OppsExample.pdb
+D:\wipro\day4\OppsExample\OppsExample\obj\Debug\OppsExample.exe.config
