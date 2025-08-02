@@ -1,0 +1,8 @@
+D:\wipro\day7\ReflectionExamples\ReflectionExamples\bin\Debug\ReflectionExamples.exe.config
+D:\wipro\day7\ReflectionExamples\ReflectionExamples\bin\Debug\ReflectionExamples.exe
+D:\wipro\day7\ReflectionExamples\ReflectionExamples\bin\Debug\ReflectionExamples.pdb
+D:\wipro\day7\ReflectionExamples\ReflectionExamples\obj\Debug\ReflectionExamples.csproj.AssemblyReference.cache
+D:\wipro\day7\ReflectionExamples\ReflectionExamples\obj\Debug\ReflectionExamples.csproj.CoreCompileInputs.cache
+D:\wipro\day7\ReflectionExamples\ReflectionExamples\obj\Debug\ReflectionExamples.exe
+D:\wipro\day7\ReflectionExamples\ReflectionExamples\obj\Debug\ReflectionExamples.pdb
+D:\wipro\day7\ReflectionExamples\ReflectionExamples\obj\Debug\ReflectionExamples.exe.config
