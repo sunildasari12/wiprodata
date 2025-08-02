@@ -1,0 +1,7 @@
+D:\wipro\Day10\IspWith\bin\Debug\IspWith.exe.config
+D:\wipro\Day10\IspWith\bin\Debug\IspWith.exe
+D:\wipro\Day10\IspWith\bin\Debug\IspWith.pdb
+D:\wipro\Day10\IspWith\obj\Debug\IspWith.csproj.AssemblyReference.cache
+D:\wipro\Day10\IspWith\obj\Debug\IspWith.csproj.CoreCompileInputs.cache
+D:\wipro\Day10\IspWith\obj\Debug\IspWith.exe
+D:\wipro\Day10\IspWith\obj\Debug\IspWith.pdb

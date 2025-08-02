@@ -1,0 +1,7 @@
+D:\wipro\Day10\LspWith\bin\Debug\LspWith.exe.config
+D:\wipro\Day10\LspWith\bin\Debug\LspWith.exe
+D:\wipro\Day10\LspWith\bin\Debug\LspWith.pdb
+D:\wipro\Day10\LspWith\obj\Debug\LspWith.csproj.AssemblyReference.cache
+D:\wipro\Day10\LspWith\obj\Debug\LspWith.csproj.CoreCompileInputs.cache
+D:\wipro\Day10\LspWith\obj\Debug\LspWith.exe
+D:\wipro\Day10\LspWith\obj\Debug\LspWith.pdb
