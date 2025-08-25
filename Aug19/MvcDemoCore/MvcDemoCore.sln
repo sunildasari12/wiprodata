@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcDemoCore", "MvcDemoCore\MvcDemoCore.csproj", "{39CE4787-2BC3-4227-8B3B-F7F7C5097EA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcAdoEmployCrud", "..\MvcAdoEmployCrud\MvcAdoEmployCrud.csproj", "{2520F57E-4BD4-4902-BF7A-407942AD0CF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39CE4787-2BC3-4227-8B3B-F7F7C5097EA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39CE4787-2BC3-4227-8B3B-F7F7C5097EA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39CE4787-2BC3-4227-8B3B-F7F7C5097EA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39CE4787-2BC3-4227-8B3B-F7F7C5097EA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2520F57E-4BD4-4902-BF7A-407942AD0CF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2520F57E-4BD4-4902-BF7A-407942AD0CF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2520F57E-4BD4-4902-BF7A-407942AD0CF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2520F57E-4BD4-4902-BF7A-407942AD0CF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28F43DA0-96F7-411B-B2D3-25E1121BA7AA}
+	EndGlobalSection
+EndGlobal

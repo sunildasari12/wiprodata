@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\wipro\\Aug20\\JwtExampleDotnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1B64C5-911E-42C7-960F-56F9990598C0}|JwtExampleDotnet\\JwtExampleDotnet.csproj|d:\\wipro\\aug20\\jwtexampledotnet\\jwtexampledotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D1B64C5-911E-42C7-960F-56F9990598C0}|JwtExampleDotnet\\JwtExampleDotnet.csproj|solutionrelative:jwtexampledotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1B64C5-911E-42C7-960F-56F9990598C0}|JwtExampleDotnet\\JwtExampleDotnet.csproj|d:\\wipro\\aug20\\jwtexampledotnet\\jwtexampledotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1B64C5-911E-42C7-960F-56F9990598C0}|JwtExampleDotnet\\JwtExampleDotnet.csproj|solutionrelative:jwtexampledotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1B64C5-911E-42C7-960F-56F9990598C0}|JwtExampleDotnet\\JwtExampleDotnet.csproj|d:\\wipro\\aug20\\jwtexampledotnet\\jwtexampledotnet\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1B64C5-911E-42C7-960F-56F9990598C0}|JwtExampleDotnet\\JwtExampleDotnet.csproj|solutionrelative:jwtexampledotnet\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1B64C5-911E-42C7-960F-56F9990598C0}|JwtExampleDotnet\\JwtExampleDotnet.csproj|d:\\wipro\\aug20\\jwtexampledotnet\\jwtexampledotnet\\controllers\\someprotectedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1B64C5-911E-42C7-960F-56F9990598C0}|JwtExampleDotnet\\JwtExampleDotnet.csproj|solutionrelative:jwtexampledotnet\\controllers\\someprotectedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1B64C5-911E-42C7-960F-56F9990598C0}|JwtExampleDotnet\\JwtExampleDotnet.csproj|d:\\wipro\\aug20\\jwtexampledotnet\\jwtexampledotnet\\models\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1B64C5-911E-42C7-960F-56F9990598C0}|JwtExampleDotnet\\JwtExampleDotnet.csproj|solutionrelative:jwtexampledotnet\\models\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1B64C5-911E-42C7-960F-56F9990598C0}|JwtExampleDotnet\\JwtExampleDotnet.csproj|d:\\wipro\\aug20\\jwtexampledotnet\\jwtexampledotnet\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1B64C5-911E-42C7-960F-56F9990598C0}|JwtExampleDotnet\\JwtExampleDotnet.csproj|solutionrelative:jwtexampledotnet\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1B64C5-911E-42C7-960F-56F9990598C0}|JwtExampleDotnet\\JwtExampleDotnet.csproj|d:\\wipro\\aug20\\jwtexampledotnet\\jwtexampledotnet\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1B64C5-911E-42C7-960F-56F9990598C0}|JwtExampleDotnet\\JwtExampleDotnet.csproj|solutionrelative:jwtexampledotnet\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1B64C5-911E-42C7-960F-56F9990598C0}|JwtExampleDotnet\\JwtExampleDotnet.csproj|d:\\wipro\\aug20\\jwtexampledotnet\\jwtexampledotnet\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1B64C5-911E-42C7-960F-56F9990598C0}|JwtExampleDotnet\\JwtExampleDotnet.csproj|solutionrelative:jwtexampledotnet\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1B64C5-911E-42C7-960F-56F9990598C0}|JwtExampleDotnet\\JwtExampleDotnet.csproj|d:\\wipro\\aug20\\jwtexampledotnet\\jwtexampledotnet\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1B64C5-911E-42C7-960F-56F9990598C0}|JwtExampleDotnet\\JwtExampleDotnet.csproj|solutionrelative:jwtexampledotnet\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1B64C5-911E-42C7-960F-56F9990598C0}|JwtExampleDotnet\\JwtExampleDotnet.csproj|d:\\wipro\\aug20\\jwtexampledotnet\\jwtexampledotnet\\models\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1B64C5-911E-42C7-960F-56F9990598C0}|JwtExampleDotnet\\JwtExampleDotnet.csproj|solutionrelative:jwtexampledotnet\\models\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\wipro\\Aug20\\JwtExampleDotnet\\JwtExampleDotnet\\appsettings.json",
+              "RelativeDocumentMoniker": "JwtExampleDotnet\\appsettings.json",
+              "ToolTip": "D:\\wipro\\Aug20\\JwtExampleDotnet\\JwtExampleDotnet\\appsettings.json",
+              "RelativeToolTip": "JwtExampleDotnet\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-20T09:06:49.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\wipro\\Aug20\\JwtExampleDotnet\\JwtExampleDotnet\\Program.cs",
+              "RelativeDocumentMoniker": "JwtExampleDotnet\\Program.cs",
+              "ToolTip": "D:\\wipro\\Aug20\\JwtExampleDotnet\\JwtExampleDotnet\\Program.cs",
+              "RelativeToolTip": "JwtExampleDotnet\\Program.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAwwIIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T09:06:12.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SomeProtectedController.cs",
+              "DocumentMoniker": "D:\\wipro\\Aug20\\JwtExampleDotnet\\JwtExampleDotnet\\Controllers\\SomeProtectedController.cs",
+              "RelativeDocumentMoniker": "JwtExampleDotnet\\Controllers\\SomeProtectedController.cs",
+              "ToolTip": "D:\\wipro\\Aug20\\JwtExampleDotnet\\JwtExampleDotnet\\Controllers\\SomeProtectedController.cs",
+              "RelativeToolTip": "JwtExampleDotnet\\Controllers\\SomeProtectedController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T09:04:23.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\wipro\\Aug20\\JwtExampleDotnet\\JwtExampleDotnet\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JwtExampleDotnet\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\wipro\\Aug20\\JwtExampleDotnet\\JwtExampleDotnet\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "JwtExampleDotnet\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T09:03:45.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "D:\\wipro\\Aug20\\JwtExampleDotnet\\JwtExampleDotnet\\Models\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "JwtExampleDotnet\\Models\\JwtSettings.cs",
+              "ToolTip": "D:\\wipro\\Aug20\\JwtExampleDotnet\\JwtExampleDotnet\\Models\\JwtSettings.cs",
+              "RelativeToolTip": "JwtExampleDotnet\\Models\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T08:29:57.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\wipro\\Aug20\\JwtExampleDotnet\\JwtExampleDotnet\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "JwtExampleDotnet\\Models\\LoginRequest.cs",
+              "ToolTip": "D:\\wipro\\Aug20\\JwtExampleDotnet\\JwtExampleDotnet\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "JwtExampleDotnet\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T08:28:59.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\wipro\\Aug20\\JwtExampleDotnet\\JwtExampleDotnet\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "JwtExampleDotnet\\Models\\Users.cs",
+              "ToolTip": "D:\\wipro\\Aug20\\JwtExampleDotnet\\JwtExampleDotnet\\Models\\Users.cs",
+              "RelativeToolTip": "JwtExampleDotnet\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T08:28:19.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\wipro\\Aug20\\JwtExampleDotnet\\JwtExampleDotnet\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "JwtExampleDotnet\\Models\\AppDbContext.cs",
+              "ToolTip": "D:\\wipro\\Aug20\\JwtExampleDotnet\\JwtExampleDotnet\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "JwtExampleDotnet\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T08:31:38.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\wipro\\Aug20\\JwtExampleDotnet\\JwtExampleDotnet\\Models\\AuthService.cs",
+              "RelativeDocumentMoniker": "JwtExampleDotnet\\Models\\AuthService.cs",
+              "ToolTip": "D:\\wipro\\Aug20\\JwtExampleDotnet\\JwtExampleDotnet\\Models\\AuthService.cs",
+              "RelativeToolTip": "JwtExampleDotnet\\Models\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T08:31:07.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\wipro\\Aug20\\JwtExampleDotnet\\JwtExampleDotnet\\Models\\IAuthService.cs",
+              "RelativeDocumentMoniker": "JwtExampleDotnet\\Models\\IAuthService.cs",
+              "ToolTip": "D:\\wipro\\Aug20\\JwtExampleDotnet\\JwtExampleDotnet\\Models\\IAuthService.cs",
+              "RelativeToolTip": "JwtExampleDotnet\\Models\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T09:01:18.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

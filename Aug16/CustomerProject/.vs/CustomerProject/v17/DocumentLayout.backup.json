@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\wipro\\Aug16\\CustomerProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20EF14FD-A31C-49C3-AA2F-FF86CF222EB4}|CustomerProject\\CustomerProject.csproj|d:\\wipro\\aug16\\customerproject\\customerproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{20EF14FD-A31C-49C3-AA2F-FF86CF222EB4}|CustomerProject\\CustomerProject.csproj|solutionrelative:customerproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20EF14FD-A31C-49C3-AA2F-FF86CF222EB4}|CustomerProject\\CustomerProject.csproj|d:\\wipro\\aug16\\customerproject\\customerproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{20EF14FD-A31C-49C3-AA2F-FF86CF222EB4}|CustomerProject\\CustomerProject.csproj|solutionrelative:customerproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20EF14FD-A31C-49C3-AA2F-FF86CF222EB4}|CustomerProject\\CustomerProject.csproj|d:\\wipro\\aug16\\customerproject\\customerproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20EF14FD-A31C-49C3-AA2F-FF86CF222EB4}|CustomerProject\\CustomerProject.csproj|solutionrelative:customerproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20EF14FD-A31C-49C3-AA2F-FF86CF222EB4}|CustomerProject\\CustomerProject.csproj|d:\\wipro\\aug16\\customerproject\\customerproject\\models\\extraentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20EF14FD-A31C-49C3-AA2F-FF86CF222EB4}|CustomerProject\\CustomerProject.csproj|solutionrelative:customerproject\\models\\extraentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20EF14FD-A31C-49C3-AA2F-FF86CF222EB4}|CustomerProject\\CustomerProject.csproj|d:\\wipro\\aug16\\customerproject\\customerproject\\models\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20EF14FD-A31C-49C3-AA2F-FF86CF222EB4}|CustomerProject\\CustomerProject.csproj|solutionrelative:customerproject\\models\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20EF14FD-A31C-49C3-AA2F-FF86CF222EB4}|CustomerProject\\CustomerProject.csproj|d:\\wipro\\aug16\\customerproject\\customerproject\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20EF14FD-A31C-49C3-AA2F-FF86CF222EB4}|CustomerProject\\CustomerProject.csproj|solutionrelative:customerproject\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20EF14FD-A31C-49C3-AA2F-FF86CF222EB4}|CustomerProject\\CustomerProject.csproj|d:\\wipro\\aug16\\customerproject\\customerproject\\models\\cmsdbcontextcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20EF14FD-A31C-49C3-AA2F-FF86CF222EB4}|CustomerProject\\CustomerProject.csproj|solutionrelative:customerproject\\models\\cmsdbcontextcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20EF14FD-A31C-49C3-AA2F-FF86CF222EB4}|CustomerProject\\CustomerProject.csproj|d:\\wipro\\aug16\\customerproject\\customerproject\\middleware\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20EF14FD-A31C-49C3-AA2F-FF86CF222EB4}|CustomerProject\\CustomerProject.csproj|solutionrelative:customerproject\\middleware\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20EF14FD-A31C-49C3-AA2F-FF86CF222EB4}|CustomerProject\\CustomerProject.csproj|d:\\wipro\\aug16\\customerproject\\customerproject\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20EF14FD-A31C-49C3-AA2F-FF86CF222EB4}|CustomerProject\\CustomerProject.csproj|solutionrelative:customerproject\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20EF14FD-A31C-49C3-AA2F-FF86CF222EB4}|CustomerProject\\CustomerProject.csproj|d:\\wipro\\aug16\\customerproject\\customerproject\\controllers\\walletscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20EF14FD-A31C-49C3-AA2F-FF86CF222EB4}|CustomerProject\\CustomerProject.csproj|solutionrelative:customerproject\\controllers\\walletscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20EF14FD-A31C-49C3-AA2F-FF86CF222EB4}|CustomerProject\\CustomerProject.csproj|d:\\wipro\\aug16\\customerproject\\customerproject\\controllers\\vendorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20EF14FD-A31C-49C3-AA2F-FF86CF222EB4}|CustomerProject\\CustomerProject.csproj|solutionrelative:customerproject\\controllers\\vendorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20EF14FD-A31C-49C3-AA2F-FF86CF222EB4}|CustomerProject\\CustomerProject.csproj|d:\\wipro\\aug16\\customerproject\\customerproject\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20EF14FD-A31C-49C3-AA2F-FF86CF222EB4}|CustomerProject\\CustomerProject.csproj|solutionrelative:customerproject\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20EF14FD-A31C-49C3-AA2F-FF86CF222EB4}|CustomerProject\\CustomerProject.csproj|d:\\wipro\\aug16\\customerproject\\customerproject\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20EF14FD-A31C-49C3-AA2F-FF86CF222EB4}|CustomerProject\\CustomerProject.csproj|solutionrelative:customerproject\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20EF14FD-A31C-49C3-AA2F-FF86CF222EB4}|CustomerProject\\CustomerProject.csproj|d:\\wipro\\aug16\\customerproject\\customerproject\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20EF14FD-A31C-49C3-AA2F-FF86CF222EB4}|CustomerProject\\CustomerProject.csproj|solutionrelative:customerproject\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20EF14FD-A31C-49C3-AA2F-FF86CF222EB4}|CustomerProject\\CustomerProject.csproj|d:\\wipro\\aug16\\customerproject\\customerproject\\customerproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{20EF14FD-A31C-49C3-AA2F-FF86CF222EB4}|CustomerProject\\CustomerProject.csproj|solutionrelative:customerproject\\customerproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CmsDbContextcs.cs",
+              "DocumentMoniker": "D:\\wipro\\Aug16\\CustomerProject\\CustomerProject\\Models\\CmsDbContextcs.cs",
+              "RelativeDocumentMoniker": "CustomerProject\\Models\\CmsDbContextcs.cs",
+              "ToolTip": "D:\\wipro\\Aug16\\CustomerProject\\CustomerProject\\Models\\CmsDbContextcs.cs",
+              "RelativeToolTip": "CustomerProject\\Models\\CmsDbContextcs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T09:41:48.107Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\wipro\\Aug16\\CustomerProject\\CustomerProject\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CustomerProject\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\wipro\\Aug16\\CustomerProject\\CustomerProject\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CustomerProject\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-16T17:34:05.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExtraEntities.cs",
+              "DocumentMoniker": "D:\\wipro\\Aug16\\CustomerProject\\CustomerProject\\Models\\ExtraEntities.cs",
+              "RelativeDocumentMoniker": "CustomerProject\\Models\\ExtraEntities.cs",
+              "ToolTip": "D:\\wipro\\Aug16\\CustomerProject\\CustomerProject\\Models\\ExtraEntities.cs",
+              "RelativeToolTip": "CustomerProject\\Models\\ExtraEntities.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T14:50:33.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EncryptionHelper.cs",
+              "DocumentMoniker": "D:\\wipro\\Aug16\\CustomerProject\\CustomerProject\\Middleware\\EncryptionHelper.cs",
+              "RelativeDocumentMoniker": "CustomerProject\\Middleware\\EncryptionHelper.cs",
+              "ToolTip": "D:\\wipro\\Aug16\\CustomerProject\\CustomerProject\\Middleware\\EncryptionHelper.cs",
+              "RelativeToolTip": "CustomerProject\\Middleware\\EncryptionHelper.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAwwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T09:50:32.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\wipro\\Aug16\\CustomerProject\\CustomerProject\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CustomerProject\\Models\\Customer.cs",
+              "ToolTip": "D:\\wipro\\Aug16\\CustomerProject\\CustomerProject\\Models\\Customer.cs",
+              "RelativeToolTip": "CustomerProject\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T09:40:42.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\wipro\\Aug16\\CustomerProject\\CustomerProject\\Program.cs",
+              "RelativeDocumentMoniker": "CustomerProject\\Program.cs",
+              "ToolTip": "D:\\wipro\\Aug16\\CustomerProject\\CustomerProject\\Program.cs",
+              "RelativeToolTip": "CustomerProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T09:47:16.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\wipro\\Aug16\\CustomerProject\\CustomerProject\\appsettings.json",
+              "RelativeDocumentMoniker": "CustomerProject\\appsettings.json",
+              "ToolTip": "D:\\wipro\\Aug16\\CustomerProject\\CustomerProject\\appsettings.json",
+              "RelativeToolTip": "CustomerProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-16T09:45:21.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\wipro\\Aug16\\CustomerProject\\CustomerProject\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "CustomerProject\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\wipro\\Aug16\\CustomerProject\\CustomerProject\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "CustomerProject\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T14:46:08.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WalletsController.cs",
+              "DocumentMoniker": "D:\\wipro\\Aug16\\CustomerProject\\CustomerProject\\Controllers\\WalletsController.cs",
+              "RelativeDocumentMoniker": "CustomerProject\\Controllers\\WalletsController.cs",
+              "ToolTip": "D:\\wipro\\Aug16\\CustomerProject\\CustomerProject\\Controllers\\WalletsController.cs",
+              "RelativeToolTip": "CustomerProject\\Controllers\\WalletsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T15:33:08.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VendorsController.cs",
+              "DocumentMoniker": "D:\\wipro\\Aug16\\CustomerProject\\CustomerProject\\Controllers\\VendorsController.cs",
+              "RelativeDocumentMoniker": "CustomerProject\\Controllers\\VendorsController.cs",
+              "ToolTip": "D:\\wipro\\Aug16\\CustomerProject\\CustomerProject\\Controllers\\VendorsController.cs",
+              "RelativeToolTip": "CustomerProject\\Controllers\\VendorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T14:41:31.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Wallet.cs",
+              "DocumentMoniker": "D:\\wipro\\Aug16\\CustomerProject\\CustomerProject\\Models\\Wallet.cs",
+              "RelativeDocumentMoniker": "CustomerProject\\Models\\Wallet.cs",
+              "ToolTip": "D:\\wipro\\Aug16\\CustomerProject\\CustomerProject\\Models\\Wallet.cs",
+              "RelativeToolTip": "CustomerProject\\Models\\Wallet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T15:39:11.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\wipro\\Aug16\\CustomerProject\\CustomerProject\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "CustomerProject\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\wipro\\Aug16\\CustomerProject\\CustomerProject\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "CustomerProject\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T14:40:44.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "D:\\wipro\\Aug16\\CustomerProject\\CustomerProject\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "CustomerProject\\Controllers\\MenuController.cs",
+              "ToolTip": "D:\\wipro\\Aug16\\CustomerProject\\CustomerProject\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "CustomerProject\\Controllers\\MenuController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T14:39:48.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "D:\\wipro\\Aug16\\CustomerProject\\CustomerProject\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "CustomerProject\\Controllers\\CustomersController.cs",
+              "ToolTip": "D:\\wipro\\Aug16\\CustomerProject\\CustomerProject\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "CustomerProject\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T09:53:23.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerProject.csproj",
+              "DocumentMoniker": "D:\\wipro\\Aug16\\CustomerProject\\CustomerProject\\CustomerProject.csproj",
+              "RelativeDocumentMoniker": "CustomerProject\\CustomerProject.csproj",
+              "ToolTip": "D:\\wipro\\Aug16\\CustomerProject\\CustomerProject\\CustomerProject.csproj",
+              "RelativeToolTip": "CustomerProject\\CustomerProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-16T09:36:53.407Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
